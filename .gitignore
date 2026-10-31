@@ -1,0 +1,53 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+env/
+
+# Configuracao local do usuario
+config.local.json
+*.local.json
+
+# Logs e artefatos de execucao
+logs/
+*.log
+last_turn.json
+
+# Saidas de teste
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# NUNCA versionar: binarios, assets ou material de terceiros
+*.dll
+*.exe
+*.pdb
+*.so
+*.dylib
+*.pak
+*.bundle
+*.assets
+*.unity3d
+
+# Segredos
+.env
+*.key
+*.pem
+secrets.json

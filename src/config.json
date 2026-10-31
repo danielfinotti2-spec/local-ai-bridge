@@ -1,0 +1,14 @@
+{
+  "model": "qwen2.5:7b",
+  "port": 8000,
+  "num_ctx": 6144,
+  "num_predict": 220,
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "repeat_penalty": 1.08,
+  "repeat_last_n": 256,
+  "keep_alive": "30m",
+  "force_pt": 1,
+  "json_ascii": 1,
+  "force_schema": 1
+}

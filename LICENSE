@@ -1,0 +1,63 @@
+MIT License
+
+Copyright (c) 2026 danielfinotti2-spec
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ESCOPO E LIMITACAO DE USO / SCOPE AND LIMITATION
+
+Este projeto e publicado exclusivamente como material EDUCACIONAL, para o
+estudo de: proxies compativeis com a API do OpenAI, structured output com
+modelos locais pequenos, otimizacao de latencia em inferencia local, e
+diagnostico de problemas de encoding entre camadas.
+
+O projeto NAO inclui, e nao deve ser usado para obter:
+
+  - binarios ou assets de software de terceiros;
+  - ferramentas de patch, engenharia reversa ou modificacao de binarios;
+  - meios de contornar DRM, licenciamento, autenticacao ou EULA.
+
+O autor nao endossa nem facilita a modificacao de software de terceiros,
+violacao de termos de servico, ou uso em ambientes multijogador publicos.
+
+Qualquer uso com aplicacoes de terceiros e de responsabilidade exclusiva do
+usuario, que deve possuir licenca valida e direito de modificar o software em
+questao. Uso pretendido: estudo, pesquisa e experimentacao local e offline.
+
+---
+
+This project is published solely as EDUCATIONAL material, for studying:
+OpenAI-compatible API proxies, structured output with small local models,
+latency optimization in local inference, and diagnosing encoding problems
+between layers.
+
+The project does NOT include, and must not be used to obtain:
+
+  - third-party software binaries or assets;
+  - patching, reverse-engineering, or binary-modification tools;
+  - means to circumvent DRM, licensing, authentication, or EULA.
+
+The author does not endorse or facilitate modifying third-party software,
+violating terms of service, or use in public multiplayer environments.
+
+Any use with third-party applications is the user's sole responsibility. The
+user must hold a valid license and have the right to modify that software.
+Intended use: study, research, and local offline experimentation.
